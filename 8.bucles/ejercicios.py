@@ -14,35 +14,6 @@ while i<= 10:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-'''i = 1
-while i <=10: 
-    print(i*numero)
-    i= i+1'''
-
-
-
-
-
-
-
 '''Ejercicio 2
 
 Escribir un programa que pregunte al usuario su edad y muestre por 

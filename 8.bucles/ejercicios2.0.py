@@ -24,7 +24,7 @@ pero, solo imprimiendo los números que sean impares'''
 numero1 = int(input("Ingrese numero 1: "))
 numero2 = int(input("Ingrese numero 2: "))
 
-for i in range (numero1 , numero2+1):
+for i in range (numero1 , numero2):
     if i % 2 == int:
         continue
     print(i)

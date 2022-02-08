@@ -1,7 +1,7 @@
 for i in range(1 , 11):
     print(i)
     if i == 5:
-        break
+        break #para que tome el ultimo numero se debe poner el print al comienzo
 
 for i in range(1 , 11):
     if i == 5:
