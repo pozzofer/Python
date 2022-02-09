@@ -21,4 +21,5 @@ print(math.tan(90))
 print(math.factorial(10))
 
 import random
+#toma un numero al azar del segmento dado
 print(random.randint(1 , 100))

@@ -56,8 +56,3 @@ print(lista)
 lista.remove('python')
 print(lista)
 
-lista = ['fernanda' , 'Pozzo']
-lista[0] = 'Fernanda' 
-print(lista[0])
-lista.remove('fernanda')
-print(lista)
